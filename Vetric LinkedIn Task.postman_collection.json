@@ -1,0 +1,313 @@
+{
+	"info": {
+		"_postman_id": "1a5480ea-426d-43cc-a136-2a55eb541239",
+		"name": "Vetric LinkedIn Task",
+		"description": "Colección para obtener perfil, posts y comentarios de Omer Bachar usando Vetric LinkedIn API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50090304",
+		"_collection_link": "https://michaelsevillacr-9527926.postman.co/workspace/Michael-Sevilla's-Workspace~28fbda22-70c2-45da-867c-3a45b7753309/collection/50090304-1a5480ea-426d-43cc-a136-2a55eb541239?action=share&source=collection_link&creator=50090304"
+	},
+	"item": [
+		{
+			"name": "Get Profile by Identifier",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "{{api_key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/linkedin/v1/profile/{{linkedin_profile}}",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"linkedin",
+						"v1",
+						"profile",
+						"{{linkedin_profile}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Profile by URL",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "{{api_key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/linkedin/v1/profile?profileUrl={{linkedin_profile}}",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"linkedin",
+						"v1",
+						"profile"
+					],
+					"query": [
+						{
+							"key": "profileUrl",
+							"value": "{{linkedin_profile}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Posts Page 1",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "{{api_key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/linkedin/v1/posts?public_identifier={{linkedin_profile}}&page=1&limit=10",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"linkedin",
+						"v1",
+						"posts"
+					],
+					"query": [
+						{
+							"key": "public_identifier",
+							"value": "{{linkedin_profile}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "10"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Comments Post 1",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "{{api_key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/linkedin/v1/comments?postId={{postId1}}&page=1&limit=20",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"linkedin",
+						"v1",
+						"comments"
+					],
+					"query": [
+						{
+							"key": "postId",
+							"value": "{{postId1}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Comments Post 2",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "{{api_key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/linkedin/v1/comments?postId={{postId2}}&page=1&limit=20",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"linkedin",
+						"v1",
+						"comments"
+					],
+					"query": [
+						{
+							"key": "postId",
+							"value": "{{postId2}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "20"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Comments Post 3",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-api-key",
+						"value": "{{api_key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{base_url}}/linkedin/v1/comments?postId={{postId3}}&page=1&limit=20",
+					"host": [
+						"{{base_url}}"
+					],
+					"path": [
+						"linkedin",
+						"v1",
+						"comments"
+					],
+					"query": [
+						{
+							"key": "postId",
+							"value": "{{postId3}}"
+						},
+						{
+							"key": "page",
+							"value": "1"
+						},
+						{
+							"key": "limit",
+							"value": "20"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "https://api.vetric.io"
+		},
+		{
+			"key": "api_key",
+			"value": "TU_API_KEY"
+		},
+		{
+			"key": "linkedin_profile",
+			"value": "omer-bachar"
+		},
+		{
+			"key": "postId1",
+			"value": "urn:li:activity:111111111"
+		},
+		{
+			"key": "postId2",
+			"value": "urn:li:activity:222222222"
+		},
+		{
+			"key": "postId3",
+			"value": "urn:li:activity:333333333"
+		},
+		{
+			"key": "page",
+			"value": ""
+		},
+		{
+			"key": "limit",
+			"value": ""
+		}
+	]
+}
