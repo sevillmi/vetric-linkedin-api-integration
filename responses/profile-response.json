@@ -1,0 +1,584 @@
+{
+    "first_name": "Omer",
+    "middle_name": null,
+    "last_name": "Bachar",
+    "pronoun": null,
+    "public_identifier": "omer-bachar",
+    "urn": "urn:li:fsd_profile:ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU",
+    "url": "https://linkedin.com/in/omer-bachar",
+    "has_premium": true,
+    "open_profile_messages": false,
+    "is_influencer": false,
+    "is_creator": true,
+    "is_openlink": false,
+    "is_job_seeker": false,
+    "is_hiring": false,
+    "is_retired": false,
+    "in_remembrance": false,
+    "linkedin_id": "319808848",
+    "creator_info": {
+        "associated_hashtag": []
+    },
+    "headline": "CEO @ Vetric. Forbes 80 Under 80.",
+    "connections": 4753,
+    "followers": 5760,
+    "location": {
+        "name": "Tel Aviv District",
+        "urn": "urn:li:fsd_geo:104243116",
+        "country": {
+            "name": "Israel",
+            "code": "IL",
+            "urn": "urn:li:fsd_geo:101620260"
+        }
+    },
+    "top_position": {
+        "start_date": {
+            "month": 7,
+            "year": 2022
+        },
+        "end_date": {
+            "month": null,
+            "year": null
+        },
+        "company_info": {
+            "name": "Vetric",
+            "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHs0lcnhTJb9w/company-logo_400_400/B4DZgSfpJhGkAc-/0/1752656942049/vetric_logo?e=1781740800&v=beta&t=6q4URDY-qAv3P26yiQp4xI2a6mlj5Wd9ZuScj-eJhDo",
+            "universal_name": "vetric",
+            "url": "https://www.linkedin.com/company/vetric/",
+            "urn": "urn:li:fsd_company:80661971"
+        },
+        "urn": "urn:li:fsd_profilePosition:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,2287320707)"
+    },
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQGn-j4T25piLw/profile-displayphoto-crop_800_800/B4DZu9cyVkIgAQ-/0/1768409999788?e=1781740800&v=beta&t=DBu1h6nDpQiQxZAiw2QyS7POzsrCpG7JDYtCOJN9N2U",
+    "background_picture": "https://media.licdn.com/dms/image/v2/D4D16AQHKFU5234Kozw/profile-displaybackgroundimage-shrink_350_1400/B4DZ38_Pd1HkAU-/0/1778065930482?e=1781740800&v=beta&t=MibN9c5sxoHn-vwYwL6YME3PTmCQLzYsYIllT5iP4dY",
+    "profile_picture_id": "D4D03AQGn-j4T25piLw",
+    "version_tag": "1979002186",
+    "is_verified": false,
+    "about": "customer obsessed",
+    "featured": [
+        {
+            "type": "Post",
+            "text": "We were never supposed to be on this list.\nNo 8200. No VC check. No right background. Just a team that kept building while others kept pitching.\n\nCTech by Calcalist put Vetric on their list of the 50 most promising startups in Israel, and we're the only bootstrapped company on it.\n\nA few years ago, Yoav​ and I got rejected from intelligence units. \"Not suitable\", apparently. We ended up building a tech team inside the military police, not exactly the unit people name-drop at meetups. Vetric is the civilian version of that same instinct: build infrastructure that actually works, skip the theater.\n\nWe've been the outsiders in the ecosystem for a while. No round to announce, no AI story to sell, no logo slide full of tier-1 VCs. Just customers, paying us, for something that works.\n\nWe're 50 people now (!!). Genuinely the best group I've ever worked with. Sharp, funny, allergic to BS, and somehow still showing up on Mondays. To all Vetric team - running this with you is the most fun I've had working.\n\nReal mazal tov to the friends on the list too: Yuval @ Notch, Amos @ Guardio!\n\nStill outsiders. Just with better proof now :)\nArthur Orr Tali Ben Adi Amit Yoav​ \n\n(full list in comments)",
+            "shares": 0,
+            "comments": 33,
+            "likes": 328,
+            "reactions": [
+                {
+                    "reaction_type": "LIKE",
+                    "count": 246
+                },
+                {
+                    "reaction_type": "PRAISE",
+                    "count": 58
+                },
+                {
+                    "reaction_type": "EMPATHY",
+                    "count": 21
+                },
+                {
+                    "reaction_type": "APPRECIATION",
+                    "count": 3
+                }
+            ],
+            "attachments": {
+                "image": "https://media.licdn.com/dms/image/v2/D4D22AQGxQ1XIbbLYGg/feedshare-shrink_1280/B4DZ25qvaEI0AU-/0/1776936482979?e=1781740800&v=beta&t=UGuxg5fUK_wVju6ArVaX14qf0biM0ZcAZa2bM0DuKZw"
+            },
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7453090642697568256?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7453090642697568256%29"
+        },
+        {
+            "type": "Post",
+            "text": "When you start a bootstrapped company (= no funding), you don’t hire polished people.\nYou hire people who are obsessed enough to walk into the chaos with you and not blink.\n\nThat was Adi and Yuval.\n\nAdi wasn’t even looking for a job.\n\nI met her when we were six people and she was so obviously “our DNA” that I didn’t even try to be rational about it. \nI didn’t know what her role should be yet, we just knew we wanted her with us.\n\nAlso, we had no idea how to interview an Operations person back then.\n\nSo our “process” was literally three hours of random interviews. Just talking, digging, and figuring out how she thinks.\n\nSomehow it worked.\n\nAnd… what she brought changed us fast.\n\nProcesses we didn’t know we needed. Constant questioning instead of “yeah sure sounds fine”. A research mindset. Balance. \n\nShe pushed us to slow down in the right places and speed up in the right places. The way we operate today is basically a before and after Adi thing.\n\nYuval is the other kind of luck.\n\nHe came from education (working with youth at risk, specifically), not tech, not sales. We knew each other for a while and I always wanted to work with him because he’s insanely talented and has emotional intelligence that makes rooms better.\n\nWe didn’t know what his role would be. We just knew we wanted him inside, because at 0->1 you don’t need a perfect job title, you need a person who can fit whatever the day throws at you.\n\nHe came in with zero experience in what he’s doing today.\nHe learned by doing, built our BDR/SDR engine from scratch, and made our rocketship growth possible - from 0 to more than $10M ARR in less than 3 years.\n\nAnd I’m not saying this lightly, he did it better than anyone else we’ve ever seen, including people who “came with the background.”\n\n𝐁𝐨𝐭𝐡 𝐨𝐟 𝐭𝐡𝐞𝐦 𝐡𝐚𝐯𝐞 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐫𝐚𝐫𝐞 𝐭𝐡𝐢𝐧𝐠: 𝐭𝐡𝐞𝐲 𝐝𝐨𝐧’𝐭 𝐚𝐜𝐭 𝐥𝐢𝐤𝐞 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞𝐬.\n\nThey act like major stakeholders. Like founders. They care so much and push so hard that sometimes they make you feel like you’re the one moving slow. In a good way. They genuinely feel Vetric is theirs.\n\nAnd these are just two stories. We built our whole initial team like this. There are more of them, and they’re a big part of why this company looks the way it does.\nSo if you’re early stage and hiring your first people, don’t optimize for experience.\n\nOptimize for passion, learning speed, and ownership.\nExperience is great later. In the beginning, passion is the whole game.",
+            "shares": 0,
+            "comments": 22,
+            "likes": 320,
+            "reactions": [
+                {
+                    "reaction_type": "LIKE",
+                    "count": 283
+                },
+                {
+                    "reaction_type": "EMPATHY",
+                    "count": 21
+                },
+                {
+                    "reaction_type": "PRAISE",
+                    "count": 14
+                },
+                {
+                    "reaction_type": "INTEREST",
+                    "count": 2
+                }
+            ],
+            "attachments": {
+                "image": "https://media.licdn.com/dms/image/v2/D4D22AQGV9gwagqtsFQ/feedshare-shrink_800/B4DZsCxbWnGQAg-/0/1765278070360?e=1781740800&v=beta&t=1wqQcAm4gAxak_w4EfcdCMlBViSncpjGJyfLJppnWCU"
+            },
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7404142815171039232?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7404142815171039232%29"
+        },
+        {
+            "type": "Post",
+            "text": "Being a young CEO is chaotic, stressful, and exhausting. At 25, running a bootstrapped startup with over 25 employees, I’ve realized I’m not just responsible for a company—I’m responsible for people & families. Every decision feels like it carries the weight of a hundred consequences, and some days, that weight feels unbearable.\n\nThere are moments when I’m switching between sales pitches, recruitment challenges, and organizational chaos—all in the same hour. Sometimes, I catch myself feeling guilty for even a minute spent not thinking about the company’s future or solving one of the endless problems. Stress becomes your home. Anxiety becomes your fuel. And the chaos? It starts to feel normal—like just another day at the office.\n\nI’m sharing this because I believe in showing the full journey—not just the highlights. The last few days have been so stressful I could barely sleep. But I’ve realized that this pressure comes from a deep desire to succeed, and I refuse to give up. If you’re feeling the same, just remember—you’re not alone. This rollercoaster is anything but easy, but maybe that’s what makes it worth the ride.\n\nBTW Sharing this sunset because it’s cheaper than therapy and works just as well",
+            "shares": 0,
+            "comments": 9,
+            "likes": 290,
+            "reactions": [
+                {
+                    "reaction_type": "LIKE",
+                    "count": 215
+                },
+                {
+                    "reaction_type": "APPRECIATION",
+                    "count": 31
+                },
+                {
+                    "reaction_type": "EMPATHY",
+                    "count": 29
+                },
+                {
+                    "reaction_type": "PRAISE",
+                    "count": 12
+                },
+                {
+                    "reaction_type": "INTEREST",
+                    "count": 2
+                },
+                {
+                    "reaction_type": "ENTERTAINMENT",
+                    "count": 1
+                }
+            ],
+            "attachments": {
+                "image": "https://media.licdn.com/dms/image/v2/D4D22AQG5lLWKP7HN_Q/feedshare-image-high-res/feedshare-image-high-res/0/1733691291726?e=1781740800&v=beta&t=kUlQr5zNtpaAd_7ISXO1eDFM9-n9mQ1H8ZncUpDtuWw"
+            },
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7271628326560026624?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7271628326560026624%29"
+        },
+        {
+            "type": "Post",
+            "text": "לא זמן לתפוקות. זמן לאנשים.\n\nאנחנו בVetric עם 30 עובדים, ללא משקיעים, בלי משאבים אינסופיים ובלי אבא ואמא להישען עליהם. בשבוע האחרון, כמו כל כך הרבה חברות בישראל, אנחנו מתמודדים עם מציאות חדשה ומשוגעת.\n\nיש לנו עובדים שפונו מבתיהם, אחרים שהבתים שלהם ניזוקו. חלק נמצאים עם ילדים קטנים בבית, חלק חזרו להורים כי אין להם ממ״ד. כמה מהם מגויסים בצו 8, כולל אנשים בהנהלה. פגישות מתבטלות, הזמינות חלקית, חלק מהצוות מתמודד עם חרדה, עם חוסר שינה, עם חוסר ודאות - בזמן שהלקוחות מסביב לעולם מצפים איתנו לשירות כרגיל. \n\nגם אני וגם Yoav​ Maman, הפאונדרים של החברה, נתקענו בחו״ל מרגע פרוץ המלחמה. אנחנו מנסים לחזור בטיסות חילוץ, ובינתיים מתנהלים מרחוק.\nזה לא פשוט לנהל חברה ברגע כזה בלי להיות בארץ, אבל זה מכריח אותנו לסמוך אפילו יותר, לתת מקום, להוריד ציפיות ולהרים אנשים.\n\nוזו בדיוק הנקודה: אי אפשר לצפות מעצמנו לתפקד במשרה מלאה בתוך מציאות בלתי אפשרית.\n\nאז החלטנו לשים את הדברים על השולחן:\n• לא מודדים תפוקה: לגיטימי שפרויקטים יידחו עכשיו, לגיטימי שלא נגיע רגע ליעדים.\n• לא דורשים זמינות: לגיטימי שנתחיל את היום יותר מאוחר, או שניקח זמן לעצמנו במשך היום.\n• כן מבקשים מהמנהלים לדבר עם כל עובד: לשאול מה שלומו באמת, ולנסות לייצר איתו שיח אמיתי, ולהראות שכולנו מרגישים חרדה, והיא לגיטימית.\n• כן מציעים עזרה יזומה: מקום לינה בטוח, תמיכה לוגיסטית, מה שצריך כדי לגרום לתקופה הזאת להיות קצת פחות הזויה, כולל פשוט לא לעבוד רגע ולקחת הפסקה.\n• כן מרימים זום יומי: לא בשביל המשימות, אלא בשביל לראות פנים מוכרות, לצחוק ולחייך קצת, לשמור על שגרה מסוימת למי שצריך אותה.\n• הגדלנו את תקציבי הסיבוס החודשיים כדי להקל, ולו קצת, על ההוצאות הגוברות של כולנו - כי בימים כאלה אפילו ארוחה חמה זו משימה שדורשת משאבים.\n• העברנו לכולם מסר ברור: אל תצפו מעצמכם ל-100%. אפילו לא ל-50%. זה בסדר. אנחנו סומכים עליכם. תנו את מה שאתם יכולים – וגם אם לא עכשיו, אז כשאפשר.\n\nחברות תמיד אומרות שהאנשים זה הדבר הכי חשוב להן. בעיניי, התקופה הזו היא המבחן האמיתי לראות אם זה באמת ככה. \nזה הרגע להוכיח שהאנשים שלנו קודמים לכל - לפני ה-ARR, לפני הטכנולוגיה, לפני הכול. \nבימים רגילים הם נותנים את הנשמה. עכשיו, זה הזמן שלנו להחזיר. \n\nזו מבחינתי ההגדרה האמיתית לחברה מצליחה: לא אקזיט, לא צמיחה, אלא איך אתה מתנהג כשהאנשים שלך הכי צריכים אותך.\n\nTali Dgani Yoav​ Maman Orr Katznelson Arthur Veinstein",
+            "shares": 0,
+            "comments": 35,
+            "likes": 470,
+            "reactions": [
+                {
+                    "reaction_type": "LIKE",
+                    "count": 380
+                },
+                {
+                    "reaction_type": "EMPATHY",
+                    "count": 43
+                },
+                {
+                    "reaction_type": "PRAISE",
+                    "count": 35
+                },
+                {
+                    "reaction_type": "APPRECIATION",
+                    "count": 12
+                }
+            ],
+            "attachments": {
+                "image": "https://media.licdn.com/dms/image/v2/D4D22AQHGv3cI_2OWFA/feedshare-image-high-res/B4DZeYK_hkG8Aw-/0/1750604708690?e=1781740800&v=beta&t=W0_HO7fTk4C9Gr-tgTCnoFXDzZWrb572YWwmbhh1lsQ"
+            },
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7342568336662114304?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7342568336662114304%29"
+        },
+        {
+            "type": "Post",
+            "text": "I keep discovering that my job no longer exists.\n\nEvery few months, I wake up and realize the thing I was good at is no longer the thing Vetric needs.\n\nAt the beginning, I was sales. \nNot “helping sales”. Sales.\n\nSo I sent hundreds of messages, took endless calls, and heard “sounds interesting” more times than I could count.\n\nIt was brutal.\nI hate small talk. Conferences terrified me. I have social anxiety.\nI still went. I still talked to strangers. Still did it all, because there was no alternative.\n\nThen the job changed.\nSuddenly it was about hiring. Managers. Process. Some sense of order.\nI felt like I was finally becoming “a real CEO”.\n\nThen reality hit.\nSome of those hires were wrong.\nNot bad people. Just wrong for the stage where we were.\nLetting them go was one of the most uncomfortable things I’ve done, and also one of the most necessary. \nThen we grew more and I had the right people in place.\n\nAnd just like that, the role shifted again.\nLess doing. More thinking.\nLess about today. More about two years from now.\nStrategy. Markets. Culture. Things you can’t A B test your way into.\n\nEvery shift feels like starting from zero.\nYou go from being good at something to being clumsy again.\nAnd honestly? That can really mess with your confidence. \n\nThe hardest part as a CEO isn’t learning new things.\nIt was letting go of things I was still good at and felt confident and comfortable doing.\nThings I enjoyed. Things that made me feel useful.\n\nAnd this took me a while to accept:\nIf you keep holding on because you’re good at it, the company pays the price.\nGrowth means replacing yourself. Hopefully over and over for a very long time. \n\nYour real job is to make yourself less essential. \nThat’s scary.\nIt also means you’re doing it right.",
+            "shares": 0,
+            "comments": 12,
+            "likes": 166,
+            "reactions": [
+                {
+                    "reaction_type": "LIKE",
+                    "count": 138
+                },
+                {
+                    "reaction_type": "INTEREST",
+                    "count": 11
+                },
+                {
+                    "reaction_type": "EMPATHY",
+                    "count": 9
+                },
+                {
+                    "reaction_type": "PRAISE",
+                    "count": 5
+                },
+                {
+                    "reaction_type": "APPRECIATION",
+                    "count": 3
+                }
+            ],
+            "attachments": {
+                "image": "https://media.licdn.com/dms/image/v2/D4D22AQGEF64vSERCOQ/feedshare-shrink_1280/B4DZvbgOABKEAc-/0/1768914215423?e=1781740800&v=beta&t=Jx-EM7VQ4OESAAq-nTU_6h11bvblo1XNQw_uYI7LnA8"
+            },
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7419363973093003264?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7419363973093003264%29"
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": null
+        },
+        {
+            "language": "Hebrew",
+            "proficiency": null
+        }
+    ],
+    "licenses_and_certifications": [],
+    "experience": [
+        {
+            "company": {
+                "name": "Vetric",
+                "location": "Israel",
+                "location_type": null,
+                "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHs0lcnhTJb9w/company-logo_400_400/B4DZgSfpJhGkAc-/0/1752656942049/vetric_logo?e=1781740800&v=beta&t=6q4URDY-qAv3P26yiQp4xI2a6mlj5Wd9ZuScj-eJhDo",
+                "public_identifier": "vetric",
+                "urn": "urn:li:fsd_company:80661971",
+                "url": "https://www.linkedin.com/company/vetric/"
+            },
+            "positions": [
+                {
+                    "role": "Co-founder & CEO",
+                    "location": "Israel",
+                    "location_type": null,
+                    "is_current_position": true,
+                    "start_date": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "end_date": {
+                        "month": null,
+                        "year": null
+                    },
+                    "duration": {
+                        "months": 0,
+                        "years": 4
+                    },
+                    "description": "In an industry full of pitch decks and noise, we focused on infrastructure, with 0$ raised. \nServing 100+ organizations that depend on reliable and scalable access to the open web.",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "Ideation Phase",
+                "location": "Thailand",
+                "location_type": null,
+                "logo_url": null,
+                "public_identifier": null,
+                "urn": null,
+                "url": null
+            },
+            "positions": [
+                {
+                    "role": "Looking for problems around the world",
+                    "location": "Thailand",
+                    "location_type": null,
+                    "is_current_position": false,
+                    "start_date": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "end_date": {
+                        "month": 6,
+                        "year": 2022
+                    },
+                    "duration": {
+                        "months": 10,
+                        "years": null
+                    },
+                    "description": "We wanted to find a problem big and interesting enough and be fully committed to the process. Therefore, we bought a 1-way ticket to Thailand and researched for 8 months. The result? Vetric.",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "On Deck",
+                "location": null,
+                "location_type": null,
+                "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGeaQn0wm72pA/company-logo_400_400/B4DZjjn0hEHwAY-/0/1756165524510/odf_logo?e=1781740800&v=beta&t=4b8w1I8vYR7zsEi6fw9t-t2nfurkEDJA0fYKUdw77TA",
+                "public_identifier": "'odf'",
+                "urn": "urn:li:fsd_company:18776174",
+                "url": "https://www.linkedin.com/company/%27odf%27/"
+            },
+            "positions": [
+                {
+                    "role": "Founder Fellowship - overhyped, not worth it",
+                    "location": null,
+                    "location_type": null,
+                    "is_current_position": false,
+                    "start_date": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "end_date": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "duration": {
+                        "months": 6,
+                        "years": null
+                    },
+                    "description": "Joined On Deck expecting learning about building and getting deep founder connections. Got a tsunami of Zooms and overflowing Slack. Felt more like a startup-themed reality show than a community.\n\nThat said - amidst the fluff, I did meet a handful of sharp, no-bullshit founders who made the experience worthwhile. Would I do it again? No. Am I glad I met them? Absolutely.",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "Stealth Startup",
+                "location": "Israel",
+                "location_type": null,
+                "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1781740800&v=beta&t=LL6qUXzKbVlNm1ApRJ7bEfg5m0Qf2krIZqDrd1Q-Jco",
+                "public_identifier": "stealth-startup-community",
+                "urn": "urn:li:fsd_company:18583501",
+                "url": "https://www.linkedin.com/company/stealth-startup-community/"
+            },
+            "positions": [
+                {
+                    "role": "Failed in my first venture, but it was fun!",
+                    "location": "Israel",
+                    "location_type": null,
+                    "is_current_position": false,
+                    "start_date": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "end_date": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "duration": {
+                        "months": 10,
+                        "years": null
+                    },
+                    "description": "Learned about how to (not) choose a business idea",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "IDF - Israel Defence Forces",
+                "location": null,
+                "location_type": null,
+                "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGR5KnRFkADMQ/company-logo_400_400/B4DZwizcGiI8AY-/0/1770110436932?e=1781740800&v=beta&t=lRfTcRUWWNecaMtS4_WeBjvc8p2Sg0aS5YSzf_k6Bmg",
+                "public_identifier": "israeldefenseforces",
+                "urn": "urn:li:fsd_company:11689046",
+                "url": "https://www.linkedin.com/company/israeldefenseforces/"
+            },
+            "positions": [
+                {
+                    "role": "Made the Military Police Agile",
+                    "location": null,
+                    "location_type": null,
+                    "is_current_position": false,
+                    "start_date": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "end_date": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "duration": {
+                        "months": 9,
+                        "years": 2
+                    },
+                    "description": "After 1 year in the unit, my two teammates and I just realized that the Military Police is stuck in the '90s. It means using the same methodologies, the same technologies, and the most painful one - the same thinking method.\n\nWe decided to do something and prepared a long, visionary paper containing our entire strategy for making the Military Police innovative, smart, and efficient.\n\nOur goal was to enable everyone in our unit to achieve more using technology and methodologies brought from the startup industry.\n\nWe achieved it by analyzing the unit's procedures, building valuable products, and implementing new methodologies & modern technologies (e.g AI, data mining, automation tools) to make the unit's routine more efficient and innovative.\n\nWe came with that vision to the commander of the Military Police, and surprisingly he immediately gave us the mandate to make our vision into reality - with dedicated resources (money, people, place to work from, autonomy to act).\n\nDuring the journey, I led the team including 6 talented developers, wrote and executed the work plan, interviewed and worked in front of senior commanders, executed a comprehensive process of finding the most painful problems, collected and analyzed requirements, managed products roadmaps, and most important - built products and methodologies which made Military Police relevant to 2020.",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "Self-Employed",
+                "location": null,
+                "location_type": null,
+                "logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEbxOLaaE0QQQ/company-logo_400_400/B56Z5XLAwYG0AY-/0/1779578965209/professionally_self_employed_logo?e=1781740800&v=beta&t=bSDs2OANnSf_jSufxOjwfmaKVm7g_Ka8M-ZpdpRbwX4",
+                "public_identifier": "professionally-self-employed",
+                "urn": "urn:li:fsd_company:17878048",
+                "url": "https://www.linkedin.com/company/professionally-self-employed/"
+            },
+            "positions": [
+                {
+                    "role": "Learned to build scalable businesses",
+                    "location": null,
+                    "location_type": null,
+                    "is_current_position": false,
+                    "start_date": {
+                        "month": 4,
+                        "year": 2015
+                    },
+                    "end_date": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "duration": {
+                        "months": 11,
+                        "years": 2
+                    },
+                    "description": "When I was 15 years old, I founded several small internet businesses with the vision of dominating their small markets. My vision was simple - find problems in small markets with a respectable quantity of potential customers, dig into the problem and build it. After one year, my portfolio included the ownership of several websites with millions of monthly users, and multiple niche browser add-ons with thousands of daily active users. \n\nOver time I've experienced multiple different domains of technical and business fields, which improved my communication across all the different stakeholders in order to craft superior products together.\n(In other words - I know how to code, monetize, design and sell)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "ExplorAds LTD",
+                "location": "Israel",
+                "location_type": null,
+                "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQGwCFsd9xKiyg/company-logo_400_400/company-logo_400_400/0/1719405404997/explorads_ltd_logo?e=1781740800&v=beta&t=hMFfqs1sfTJL-IDND02aO-4c1B8VyuXrU12xqFbfjjk",
+                "public_identifier": "explorads-ltd",
+                "urn": "urn:li:fsd_company:18007430",
+                "url": "https://www.linkedin.com/company/explorads-ltd/"
+            },
+            "positions": [
+                {
+                    "role": "All Around Player",
+                    "location": "Israel",
+                    "location_type": null,
+                    "is_current_position": false,
+                    "start_date": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "end_date": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "duration": {
+                        "months": 7,
+                        "years": null
+                    },
+                    "description": "Leading a product with 200k MAU around the world.",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "education": [],
+    "skills": [
+        {
+            "name": "Public Data",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,31)"
+        },
+        {
+            "name": "SaaS",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,30)"
+        },
+        {
+            "name": "Osint",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,24)"
+        },
+        {
+            "name": "Webint",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,29)"
+        },
+        {
+            "name": "Product Management",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,13)"
+        },
+        {
+            "name": "Data Mining",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,8)"
+        },
+        {
+            "name": "Team Leadership",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,16)"
+        },
+        {
+            "name": "WEBINT",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,34)"
+        },
+        {
+            "name": "Artificial Intelligence (AI)",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,32)"
+        },
+        {
+            "name": "Brand Protection",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,33)"
+        },
+        {
+            "name": "OSINT",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,28)"
+        },
+        {
+            "name": "Computer Forensics",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,25)"
+        },
+        {
+            "name": "Cellebrite",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,26)"
+        },
+        {
+            "name": "Cybercrime Investigation",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,27)"
+        },
+        {
+            "name": "Start-ups",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,17)"
+        },
+        {
+            "name": "Website Monetization",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,22)"
+        },
+        {
+            "name": "Web Development",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,23)"
+        },
+        {
+            "name": "Data Scraping",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,5)"
+        },
+        {
+            "name": "Software as a Service (SaaS)",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,20)"
+        },
+        {
+            "name": "Web Scraping",
+            "endorser_count": null,
+            "endorsers": [],
+            "urn": "urn:li:fsd_skill:(ACoAABMP5VABtgxF3HF_likVsobmOVbh01vTyuU,21)"
+        }
+    ]
+}
