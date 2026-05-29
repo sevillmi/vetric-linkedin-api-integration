@@ -1,0 +1,1 @@
+Sample JSON API responses
